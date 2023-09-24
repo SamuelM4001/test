@@ -35,3 +35,4 @@ def m_alpha_cip(plaintext):
     
 message = str(input("Enter plaintext: "))
 m_alpha_cip(message)
+print("haha")
